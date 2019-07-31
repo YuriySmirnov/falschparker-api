@@ -1,0 +1,12 @@
+{
+    "name": "yuriysmirnov/falschparker-api",
+    "description": "API Client for Falschparker",
+    "authors": [
+        {
+            "name": "Yuriy Smirnov",
+            "email": "yosmirn@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
